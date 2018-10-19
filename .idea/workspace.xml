@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f963b26-aa76-489f-beab-8b8b8af12795" name="Default Changelist" comment="">
+      <change afterPath="D:/PycharmProjects/our_flask_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/.idea/our_flask_project.iml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Dao/__init__.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Dao/commentDao.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Dao/commentSql.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Dao/strategyDao.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Dao/strategySql.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Dao/travelnotesDao.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Dao/travelnotesSql.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Dao/userDao.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Dao/userSql.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Service/__init__.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Service/commentService.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Service/strategyService.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Service/travelnotesService.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/Service/userService.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/__init__.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/app.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/config.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/route.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/route_comment.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/route_strategy.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/route_travelnotes.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/route_user.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/utils/__init__.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/lvyooooapp/utils/util_token.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/our_flask_project/run.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/.idea/project1.iml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Dao/__init__.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Dao/commentDao.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Dao/commentSql.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Dao/strategyDao.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Dao/strategySql.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Dao/travelnotesDao.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Dao/travelnotesSql.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Dao/userDao.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Dao/userSql.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Service/__init__.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Service/commentService.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Service/strategyService.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Service/travelnotesService.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/Service/userService.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/__init__.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/app.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/config.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/route.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/route_comment.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/route_strategy.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/route_travelnotes.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/route_user.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/project1/run.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-mongoDB/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-mongoDB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-mongoDB/homeword--25.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-mongoDB/mongo-connect.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-mongoDB/unit52/2-connect-mongo.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-mongoDB/unit52/dbconfig/__init__.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-mongoDB/unit52/dbconfig/dbcon.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-mongoDB/unit52/jobs.json" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-scrapy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-scrapy/myproject/myproject/file/job.json" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-scrapy/myproject/myproject/file/travelnotesurl.json" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-scrapy/myproject/myproject/file/urls.json" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/spider-mafengwo/findurl.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/spider-mafengwo/spider-mafengwo-content.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/spider-mafengwo/travelnoteContent.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit45/dao/job.json" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit45/dao/jobs.json" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/0-spider-old.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/0-spider-sulenium-01.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/0-spider-sulenium-baidu.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/0-spider-sulenium-jianshu.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/0-spider-sulenium-taobao.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/baidu/baidu0.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/baidu/baidu1.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/baidu/baidu2.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/baidu/baidu3.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/fileconfig/__init__.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/fileconfig/file.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu/jianshuDatile-11bea2eb2c91.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu/jianshuDatile-12d3dd6fc26a.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu/jianshuDatile-223776a04763.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu/jianshuDatile-25e415d5ce3c.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu/jianshuDatile-31a6e2e8d4db.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu/jianshuDatile-349fbd1ee719.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu/jianshuDatile-410673b84e87.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu/jianshuDatile-84d4f183f16a.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu/jianshuDatile-a9b047d57b30.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu/jianshuDatile-d24995a7a247.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/jianshu1.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/lessheader/__init__.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/lessheader/lessheader.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/mafengwo1.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/matchfile/__init__.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/matchfile/match.py" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/python-spider/unit46/taobao.html" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/untitled2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/PycharmProjects/untitled2/app.py" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/.idea/dictionaries/.xml" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/css/content_travelnotes.css" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/css/homepage.css" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/css/lunbotu.css" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/css/personalcenter/homepage.css" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/css/strategy/css.css" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/css/strategy/css1.css" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/css/travelnote/write_youji.css" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/css/travelnote/youji.css" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/check_box.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/imdex2.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/index.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/logo.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/logoweight.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/logowhite.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/lunbotu/IMG_0158.PNG" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/lunbotu/IMG_0159.JPG" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/lunbotu/IMG_0160.JPG" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/LC_icon_left_circle_line.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/add_org.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/add_white.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/face.jpeg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/huoguo1.jpeg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/icon_editor.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/jinli.jpeg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/line-details-sprites.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/logo.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/lr1.jpeg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/lr3.jpeg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/ly2.jpeg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/renminlu.jpeg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/right.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/search2.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/search3.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/smile.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/star.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/sun.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/strategy/v.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/4.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/5.svg" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/6.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/logo.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/住宿.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/住宿2.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/住宿3.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/图片.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/地图.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/头像.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/收藏.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/景点.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/景点2.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/浏览.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/添加图片.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/美食.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/美食2.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/背景.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/背景2.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/travelnote/背景3.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/zan (1).png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/zan.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/写作 (1).png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/回到顶部.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/女.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/定位.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/感叹号.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/收藏.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/攻略 (1).png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/攻略线.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/旅由网.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/浏览.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/用户.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/images/男.png" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/homepage.js" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/homepage/pages.js" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/homepage/vue.js" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/lunbotu.js" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/strategy/js.js" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/strategy/js1.js" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/travelnote/写游记.js" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/travelnote/详情.js" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/user/login.js" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/user/regist.html" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/user/userindex.js" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/js/utils.js" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/personalcenter/login.html" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/personalcenter/userindex.html" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/strategy/editor.html" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/strategy/strategy.html" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/test.html" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/test2.html" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/test3.html" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/travelnote/write_youji.html" afterDir="false" />
+      <change afterPath="D:/Webstome/lvyoooo/travelnote/youji.html" afterDir="false" />
+      <change afterPath="D:/Webstome/python_web_project/util36/富文本编辑器.html" afterDir="false" />
+      <change afterPath="D:/Webstome/test/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="D:/Webstome/test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/Webstome/test/b.html" afterDir="false" />
+      <change afterPath="D:/Webstome/untitled/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
+      <change afterPath="D:/Webstome/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/Webstome/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/Webstome/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="D:/Webstome/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/Webstome/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/0-test.html" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/0-test.js" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/1-for-if.html" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/2-用户交互.html" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/4-组件.html" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/61动画/动画01.html" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/MyFirstVue/src/components/Content.vue" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/MyFirstVue/src/components/PageIndex.vue" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/MyFirstVue/src/components/lunbotu.vue" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/amazing.js" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/amazingDemoPractice.html" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/侦听.html" afterDir="false" />
+      <change afterPath="D:/Webstome/vue-priject/计算属性.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ourproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crossdomain.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mymiddlewares/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mymiddlewares/middlewareauth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ourproject/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travelnote/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/utils/util_token.py" afterDir="false" />
+      <change afterPath="D:/pythonDjango/python_django_jobapp/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="D:/pythonDjango/python_django_jobapp/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="D:/pythonDjango/python_django_jobapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/pythonDjango/python_django_jobapp/mymiddlewares/__init__.py" afterDir="false" />
+      <change afterPath="D:/pythonDjango/python_django_jobapp/mymiddlewares/middlewareauth.py" afterDir="false" />
+      <change afterPath="D:/pythonDjango/python_django_jobapp/python_django_jobapp/views.py" afterDir="false" />
+      <change afterPath="D:/pythonDjango/python_django_jobapp/static/css/main.css" afterDir="false" />
+      <change afterPath="D:/pythonDjango/python_django_jobapp/strategy/urls.py" afterDir="false" />
+      <change afterPath="D:/pythonDjango/python_django_jobapp/travelnotes/travelnotes.json" afterDir="false" />
+      <change afterPath="D:/pythonDjango/python_django_jobapp/travelnotes/travelnotes3.json" afterDir="false" />
+      <change afterPath="D:/pythonDjango/python_django_jobapp/travelnotes/urls.py" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/check_box.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/imdex2.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/index.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/logo.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/logoweight.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/logowhite.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/zan (1).png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/zan.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/写作 (1).png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/回到顶部.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/女.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/定位.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/感叹号.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/收藏.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/攻略 (1).png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/攻略线.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/旅由网.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/浏览.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/用户.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/assets/homepage/男.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/components/ContentLeft.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/components/ContentRight.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/components/Lunbotu.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/components/NavMain.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/MyFirstVue/src/components/test.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/cx_Pycharm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/saveprojects/cx_Pycharm/jobapp/dao/__init__.py" afterDir="false" />
+      <change afterPath="D:/saveprojects/cx_Pycharm/jobapp/dao/accept_dao.py" afterDir="false" />
+      <change afterPath="D:/saveprojects/cx_Pycharm/jobapp/dao/accept_sql.py" afterDir="false" />
+      <change afterPath="D:/saveprojects/cx_Pycharm/jobapp/dao/job_dao.py" afterDir="false" />
+      <change afterPath="D:/saveprojects/cx_Pycharm/jobapp/dao/job_sql.py" afterDir="false" />
+      <change afterPath="D:/saveprojects/cx_Pycharm/jobapp/dao/resume_dao.py" afterDir="false" />
+      <change afterPath="D:/saveprojects/cx_Pycharm/jobapp/dao/resume_sql.py" afterDir="false" />
+      <change afterPath="D:/saveprojects/cx_Pycharm/jobapp/dao/user_dao.py" afterDir="false" />
+      <change afterPath="D:/saveprojects/cx_Pycharm/jobapp/dao/user_sql.py" afterDir="false" />
+      <change afterPath="D:/saveprojects/jobapp.com/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/QQ.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/QQ图片20180830190510.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/QQ图片20180830195055.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/WeChat.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/backgroud.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/logo--.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/logo.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/lvy-logo.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/lvy-logo2.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/malaixi2.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/malaixiya.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/psb.jpg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/search.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/webside-img.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/weibo.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/微信.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/login/群蜂新浪微博.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/face.jpeg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/icon_editor.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/lunbo/LC_icon_left_circle_line.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/lunbo/jinli.jpeg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/lunbo/lr1.jpeg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/lunbo/lr3.jpeg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/lunbo/ly2.jpeg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/lunbo/renminlu.jpeg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/lunbo/right.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/search2.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/search3.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/smile.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/strategy/star.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/4.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/5.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/WeChat.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/backgroud.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/collect.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/logo--.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/logo.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/logoweight.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/look.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/lvy-logo.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/lvy-logo2.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/malaixi2.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/malaixiya.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/qq.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/search.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/set-bg-.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/set-bg.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/webside-img.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/weibo.svg" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/浏览.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/assets/travelnote/观看.png" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/ContentLeft.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/ContentRight.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/Footer.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/HotTravelnote.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/NewStrategy.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/Newest.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/login/HelloWorld.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/login/Login.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/login/Regist.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/login/SearchPage.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/lunbotu.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/MyCollect.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/MyFocus.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/MyStrategys.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/MyTravelnotes.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/moaikuang.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/moaikuang1.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/test.css" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/test.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/HelloWorld.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/check/Discuss.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/check/HelloWorld.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/check/NavBottom.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/check/NavBread.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/check/NavTop.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/check/PageIndex.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/check/RouteDiscuss.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/check/RouteView.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/check/SowingMap.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/check/SpecificRoute.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/check/all.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/edit/E_Bottom.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/edit/E_Top.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/strategy/edit/moaikuang.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/travelnote/LoginMain.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/travelnote/Mtravelnote.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/travelnote/RegistMain.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/travelnote/SearchPages.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/travelnote/TravelMain.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/travelnote/TravelNotes.vue" afterDir="false" />
+      <change afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/travelnote/WriteNotes.vue" afterDir="false" />
+      <change beforePath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/MyMessage.vue" beforeDir="false" afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/MyMessage.vue" afterDir="false" />
+      <change beforePath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/PersonalIndex.vue" beforeDir="false" afterPath="D:/saveprojects/lvyoooo/lvyoooo/src/components/personalcenter/PersonalIndex.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ourproject$manage.coverage" NAME="manage Coverage Results" MODIFIED="1539944114552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ourproject$views.coverage" NAME="views Coverage Results" MODIFIED="1539852620105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/users" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1369003366">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.111" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="json" value="1" />
+          <entry key="py" value="144" />
+          <entry key="py___jb_tmp___" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="144" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="11546" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="11546" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3224">
+              <caret line="182" lean-forward="true" selection-start-line="182" selection-end-line="182" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#742#748#0" />
+                <marker date="1539928117730" expanded="true" signature="5858:6543" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/travelnote/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+                <marker date="1539949095419" expanded="true" signature="920:921" ph="..." />
+                <marker date="1539949095419" expanded="true" signature="1138:1143" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/strategy/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="111" column="8" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1539921637072" expanded="true" signature="1057:1066" ph="..." />
+                <marker date="1539921637072" expanded="true" signature="1331:1332" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/travelnote/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+              <folding>
+                <element signature="e#1#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/travelnote/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1539944283375" expanded="true" signature="528:1059" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/strategy/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="e#1#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+              <folding>
+                <element signature="e#1#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>conditin</find>
+      <find>condition_id</find>
+      <find>searchtest</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ourproject/views.py" />
+        <option value="$PROJECT_DIR$/ourproject/__init__.py" />
+        <option value="$PROJECT_DIR$/stragety/models.py" />
+        <option value="$PROJECT_DIR$/crossdomain.xml" />
+        <option value="$PROJECT_DIR$/mymiddlewares/middlewareauth.py" />
+        <option value="$PROJECT_DIR$/utils/util_token.py" />
+        <option value="$PROJECT_DIR$/travelnote/admin.py" />
+        <option value="$USER_HOME$/Desktop/unit56-django_jobapp/django_jobapp/job/models.py" />
+        <option value="$PROJECT_DIR$/ourproject/settings.py" />
+        <option value="$PROJECT_DIR$/travelnote/urls.py" />
+        <option value="$PROJECT_DIR$/travelnote/migrations/0007_travelnote_condition.py" />
+        <option value="$PROJECT_DIR$/strategy/migrations/0006_strategy_condition.py" />
+        <option value="$PROJECT_DIR$/strategy/migrations/0005_auto_20181017_2050.py" />
+        <option value="$PROJECT_DIR$/travelnote/migrations/0006_condition.py" />
+        <option value="$PROJECT_DIR$/travelnote/migrations/0004_auto_20181017_2139.py" />
+        <option value="$PROJECT_DIR$/strategy/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/travelnote/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/ourproject/urls.py" />
+        <option value="$PROJECT_DIR$/strategy/models.py" />
+        <option value="$PROJECT_DIR$/users/models.py" />
+        <option value="$PROJECT_DIR$/users/urls.py" />
+        <option value="$USER_HOME$/Desktop/views程远.py" />
+        <option value="$PROJECT_DIR$/strategy/urls.py" />
+        <option value="$PROJECT_DIR$/strategy/views.py" />
+        <option value="$PROJECT_DIR$/users/views.py" />
+        <option value="$PROJECT_DIR$/travelnote/views.py" />
+        <option value="$PROJECT_DIR$/travelnote/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="115" />
+    <option name="y" value="24" />
+    <option name="width" value="1215" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ourproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ourproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ourproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ourproject" type="462c0819:PsiDirectoryNode" />
+              <item name="ourproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ourproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ourproject" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ourproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ourproject" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ourproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ourproject" type="462c0819:PsiDirectoryNode" />
+              <item name="travelnote" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ourproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ourproject" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/saveprojects/cx_Pycharm" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ourDjango\ourproject\users" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ourDjango\ourproject\travelnote" />
+      <recent name="D:\ourDjango\ourproject" />
+      <recent name="D:\ourDjango\ourproject\stragety" />
+      <recent name="D:\ourDjango\ourproject\users" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ourproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ourproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/users" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/users/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ourproject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ourproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.ourproject" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.views" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f963b26-aa76-489f-beab-8b8b8af12795" name="Default Changelist" comment="" />
+      <created>1538149427635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538149427635</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="754" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82945734" visible="true" weight="0.24848025" />
+      <window_info id="Structure" order="1" sideWeight="0.17054264" side_tool="true" visible="true" weight="0.24848025" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.86854106" weight="0.26817447" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49772036" weight="0.3279483" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.13449848" side_tool="true" visible="true" weight="0.37479806" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.8655015" visible="true" weight="0.37479806" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956383" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/strategy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelnote/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/db/models/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3458">
+          <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/saveprojects/cx_Pycharm/jobapp/route_user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mymiddlewares/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategy/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/utils/util_token.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mymiddlewares/middlewareauth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossdomain.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ourproject/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelnote/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/unit56-django_jobapp/django_jobapp/user/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="27" column="82" selection-start-line="27" selection-start-column="82" selection-end-line="27" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/unit56-django_jobapp/django_jobapp/job/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="67" selection-end-line="39" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1334">
+          <caret line="277" selection-start-line="277" selection-end-line="277" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/views.py___jb_tmp___" />
+    <entry file="file://$PROJECT_DIR$/strategy/migrations/0005_auto_20181017_2001.py" />
+    <entry file="file://$PROJECT_DIR$/strategy/migrations/0006_strategy_condition.py" />
+    <entry file="file://$PROJECT_DIR$/strategy/migrations/0005_auto_20181017_2050.py" />
+    <entry file="file://$PROJECT_DIR$/travelnote/migrations/0007_travelnote_condition.py" />
+    <entry file="file://$PROJECT_DIR$/travelnote/migrations/0006_condition.py" />
+    <entry file="file://$PROJECT_DIR$/travelnote/migrations/0004_auto_20181017_2139.py" />
+    <entry file="file://$PROJECT_DIR$/strategy/migrations/0004_auto_20181017_2139.py" />
+    <entry file="file://$PROJECT_DIR$/travelnote/migrations/0002_travelnote.py" />
+    <entry file="file://$PROJECT_DIR$/travelnote/migrations/0003_timages.py" />
+    <entry file="file://$PROJECT_DIR$/travelnote/migrations/0004_auto_20181017_2200.py" />
+    <entry file="file://$PROJECT_DIR$/strategy/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelnote/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ourproject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ourproject/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelnote/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategy/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategy/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelnote/travelnotes.json" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/_collections_abc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="826" column="34" lean-forward="true" selection-start-line="826" selection-start-column="34" selection-end-line="826" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ourproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3172">
+          <caret line="122" column="1" selection-start-line="122" selection-start-column="1" selection-end-line="122" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <marker date="1539845435616" expanded="true" signature="1405:1410" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategy/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1539828274518" expanded="true" signature="674:845" ph="..." />
+            <marker date="1539828274518" expanded="true" signature="1159:1161" ph="..." />
+            <marker date="1539828274518" expanded="true" signature="1198:1398" ph="..." />
+            <marker date="1539828274518" expanded="true" signature="1480:1485" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/views程远.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#2453#3328#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ourproject姜楠/ourproject/strategy/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#1#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategy/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#1#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ourproject姜楠/ourproject/strategy/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="104" selection-start-line="104" selection-end-line="105" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/strategy/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="111" column="8" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1539921637072" expanded="true" signature="1057:1066" ph="..." />
+            <marker date="1539921637072" expanded="true" signature="1331:1332" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#1#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelnote/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+          <folding>
+            <element signature="e#1#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelnote/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1539944283375" expanded="true" signature="528:1059" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3224">
+          <caret line="182" lean-forward="true" selection-start-line="182" selection-end-line="182" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#742#748#0" />
+            <marker date="1539928117730" expanded="true" signature="5858:6543" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travelnote/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1539949095419" expanded="true" signature="920:921" ph="..." />
+            <marker date="1539949095419" expanded="true" signature="1138:1143" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
