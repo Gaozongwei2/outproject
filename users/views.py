@@ -233,3 +233,13 @@ def addtravelnotes(request):
         return JsonResponse({"code": "200"})
     else:
         return HttpResponse("error")
+
+
+
+
+
+
+
+
+
+    # jfiweojfoiwjffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
