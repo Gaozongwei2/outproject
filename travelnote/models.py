@@ -42,4 +42,4 @@ class commint(models.Model):
     tid = models.ForeignKey(to='travelnote', to_field='id', on_delete=models.CASCADE)
     userid = models.ForeignKey(to='users.user', to_field='id',on_delete=models.CASCADE, default=1)
 
-aaaaaaaaa
+
